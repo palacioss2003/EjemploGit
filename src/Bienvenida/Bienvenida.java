@@ -7,7 +7,7 @@ public class Bienvenida {
 		System.out.println("Bienvenido...");
 		
 		System.out.println("Cambios");
-		System.out.println("cambios2");
+		System.out.println("cambios");
 	}
 
 }
